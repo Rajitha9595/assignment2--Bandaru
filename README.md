@@ -17,3 +17,5 @@ Tirupati International Airport
     * Nuggets
     * Fillet-o-fish
 * Chicken Sandwich
+
+[about_me_link](https://github.com/Rajitha9595/assignment2--Bandaru/blob/main/AboutMe.md)
