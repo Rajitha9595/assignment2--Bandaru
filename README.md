@@ -14,6 +14,6 @@ Tirupati International Airport
 
 * Chicken Burger
 * French Fries
-       * Nuggets
-       * Fillet-o-fish
+    * Nuggets
+    * Fillet-o-fish
 * Chicken Sandwich
