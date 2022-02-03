@@ -32,3 +32,11 @@ The following table illustrates regarding the sports that I am interested in and
 | Throw Ball | Throw Ball court | $50-Teeshirt |
 | Ping Pong | Ping Pong Table | $50-Shoes |
 | Tennikoit   | Tennikoit court   | $150-Tennikoit RIng |
+---
+
+---
+# Quotations
+> Hurt me with a truth but never comfort me with a lie.- *Rajitha*
+>
+> Never give up without a fpight.-*Bandaru*
+---
